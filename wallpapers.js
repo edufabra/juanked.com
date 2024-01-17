@@ -9,18 +9,22 @@ images = [
   },
   {
     "title": "David Hasselhof",
-    "url": "http://static2.comicvine.com/uploads/screen_kubrick/0/40/749137-hoff.jpg"
+    "url": "https://4.bp.blogspot.com/-oZHW7F1KwUU/XH3f7horpxI/AAAAAAADc_I/AbB_1Zg4ifgDWQRKD-nUTLQSdZ783PkdACLcBGAs/s1600/david-hasselhoff-with-puppies-6.jpg"
   },
   {
     "title": "Salchiiiipaaaaaapaaaa",
     "url": "https://i.ytimg.com/vi/FuJh1gDL76s/maxresdefault.jpg"
   },
   {
-    "title": "Leticia, Marbella",
-    "url": "http://media.gettyimages.com/photos/leticia-sabater-is-seen-on-july-6-2015-in-marbella-spain-picture-id480906184"
+    "title": "Leticia Sabater",
+    "url": "https://www.formulatv.com/images/articulos/120000/120728_ZWP9H5B1xacmY6ki7eqL2ENvgzs83tRJ4-h2.jpg"
   },
   {
     "title": "Pollo frito",
     "url": "https://i.ytimg.com/vi/7x-Y0yvRwpc/maxresdefault.jpg"
+  },
+  {
+    "title": "Carmen de Mairena",
+    "url": "https://album.mediaset.es/eimg/2020/03/23/WQruIayd9sWJP6TNjeu6N4.jpg"
   }
 ];
